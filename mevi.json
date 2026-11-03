@@ -2,14 +2,14 @@
 {
   "base_url": "https://rez10.online/",
   "api_url": "https://rez10.online/api/",
-  "latest_version_code": 2,
+  "latest_version_code": 1,
   "minimum_supported_version_code": 1,
   "force_update": false,
   "update_message": "A new version of Mevi Love is available.",
   "update_url": "https://rez10.online/update",
   "update_sources": {
     "google_play": {
-      "enabled": true
+      "enabled": false
     },
     "samsung": {
       "enabled": false,
