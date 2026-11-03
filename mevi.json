@@ -1,7 +1,7 @@
 {
     "base_url": "https://rez10.online/",
     "api_url": "https://rez10.online/api/",
-    "latest_version_code": 2,
+    "latest_version_code": 1,
     "force_update": false,
     "update_message": "Update available!"
 }
